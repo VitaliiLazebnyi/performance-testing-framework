@@ -1,0 +1,11 @@
+id,fname,lname,email,password,phone,status
+id1,fname1,lname1,user_id1@gmail.com,password1,+38063000001,1
+id2,fname2,lname2,user_id2@gmail.com,password2,+38063000002,0
+id3,fname3,lname3,user_id3@gmail.com,password3,+38063000003,1
+id4,fname4,lname4,user_id4@gmail.com,password4,+38063000004,0
+id5,fname5,lname5,user_id5@gmail.com,password5,+38063000005,1
+id6,fname6,lname6,user_id6@gmail.com,password6,+38063000006,0
+id7,fname7,lname7,user_id7@gmail.com,password7,+38063000007,1
+id8,fname8,lname8,user_id8@gmail.com,password8,+38063000008,0
+id9,fname9,lname9,user_id9@gmail.com,password9,+38063000009,1
+id10,fname10,lname10,user_id10@gmail.com,password10,+380630000010,0
